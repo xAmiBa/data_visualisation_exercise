@@ -9,7 +9,7 @@ This project is designed to analyze sales data from a CSV file, calculate profit
 - `plotly.express`: For creating interactive charts and graphs for data visualization.
 
 ## Overview
-
+![graph example](/Screenshot%202024-03-16%20at%2000.04.50.png)
 The project performs several key operations on the sales data:
 
 1. Reads sales data from a CSV file.
